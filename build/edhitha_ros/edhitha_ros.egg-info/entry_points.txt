@@ -1,0 +1,3 @@
+[console_scripts]
+edhitha_client = edhitha_ros.edhitha_client:main
+edhitha_server = edhitha_ros.edhitha_server:main
