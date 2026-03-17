@@ -1,0 +1,35 @@
+running egg_info
+writing ../../build/edhitha_ros/edhitha_ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/edhitha_ros/edhitha_ros.egg-info/dependency_links.txt
+writing entry points to ../../build/edhitha_ros/edhitha_ros.egg-info/entry_points.txt
+writing requirements to ../../build/edhitha_ros/edhitha_ros.egg-info/requires.txt
+writing top-level names to ../../build/edhitha_ros/edhitha_ros.egg-info/top_level.txt
+reading manifest file '../../build/edhitha_ros/edhitha_ros.egg-info/SOURCES.txt'
+writing manifest file '../../build/edhitha_ros/edhitha_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+copying edhitha_ros/__init__.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros
+copying edhitha_ros/edhitha_listerners.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros
+copying edhitha_ros/edhitha_client.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros
+copying edhitha_ros/edhitha_talkerp.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros
+copying edhitha_ros/edhitha_server.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros
+running install
+running install_lib
+copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_listerners.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros
+copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_client.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros
+copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_talkerp.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros
+copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_server.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros
+byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_listerners.py to edhitha_listerners.cpython-310.pyc
+byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_client.py to edhitha_client.cpython-310.pyc
+byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_talkerp.py to edhitha_talkerp.cpython-310.pyc
+byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_server.py to edhitha_server.cpython-310.pyc
+running install_data
+copying resource/edhitha_ros -> /home/yashu/ros2_workspace/install/edhitha_ros/share/ament_index/resource_index/packages
+copying package.xml -> /home/yashu/ros2_workspace/install/edhitha_ros/share/edhitha_ros
+running install_egg_info
+removing '/home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/edhitha_ros/edhitha_ros.egg-info to /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros-0.0.0-py3.10.egg-info
+running install_scripts
+Installing edhitha_client script to /home/yashu/ros2_workspace/install/edhitha_ros/lib/edhitha_ros
+Installing edhitha_server script to /home/yashu/ros2_workspace/install/edhitha_ros/lib/edhitha_ros
+writing list of installed files to '/home/yashu/ros2_workspace/build/edhitha_ros/install.log'

@@ -1,0 +1,72 @@
+[0.000000] (-) TimerEvent: {}
+[0.001199] (edhitha_ros) JobQueued: {'identifier': 'edhitha_ros', 'dependencies': OrderedDict()}
+[0.001482] (edhitha_ros) JobStarted: {'identifier': 'edhitha_ros'}
+[0.099354] (-) TimerEvent: {}
+[0.199723] (-) TimerEvent: {}
+[0.300155] (-) TimerEvent: {}
+[0.400475] (-) TimerEvent: {}
+[0.500801] (-) TimerEvent: {}
+[0.601120] (-) TimerEvent: {}
+[0.701461] (-) TimerEvent: {}
+[0.801824] (-) TimerEvent: {}
+[0.902186] (-) TimerEvent: {}
+[1.002621] (-) TimerEvent: {}
+[1.103002] (-) TimerEvent: {}
+[1.204016] (-) TimerEvent: {}
+[1.304311] (-) TimerEvent: {}
+[1.404668] (-) TimerEvent: {}
+[1.505098] (-) TimerEvent: {}
+[1.605871] (-) TimerEvent: {}
+[1.706520] (-) TimerEvent: {}
+[1.806830] (-) TimerEvent: {}
+[1.907127] (-) TimerEvent: {}
+[1.983395] (edhitha_ros) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/edhitha_ros', 'build', '--build-base', '/home/yashu/ros2_workspace/build/edhitha_ros/build', 'install', '--record', '/home/yashu/ros2_workspace/build/edhitha_ros/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/yashu/ros2_workspace/src/edhitha_ros', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_IN:en', 'USER': 'yashu', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/yashu', 'OLDPWD': '/home/yashu/ros2_workspace/src/edhitha_ros/edhitha_ros', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '3999', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/yashu/ros2_workspace/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'yashu', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'yashu', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/lib/ccache:/home/yashu/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/yashu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/yashu/.local/bin', 'SESSION_MANAGER': 'local/yashu-HP-ProBook-440-G5:@/tmp/.ICE-unix/1472,unix/yashu-HP-ProBook-440-G5:/tmp/.ICE-unix/1472', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/0387537c_2d78_4dd5_8fc9_d324c2c1d39d', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.7GZ3L3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.115', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/yashu/ros2_workspace/install/edhitha_ros:/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/yashu/ros2_workspace/build/edhitha_ros', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/yashu/ros2_workspace/build/edhitha_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages:/home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[2.007240] (-) TimerEvent: {}
+[2.107582] (-) TimerEvent: {}
+[2.207933] (-) TimerEvent: {}
+[2.308231] (-) TimerEvent: {}
+[2.408528] (-) TimerEvent: {}
+[2.452100] (edhitha_ros) StdoutLine: {'line': b'running egg_info\n'}
+[2.479785] (edhitha_ros) StdoutLine: {'line': b'writing ../../build/edhitha_ros/edhitha_ros.egg-info/PKG-INFO\n'}
+[2.508596] (-) TimerEvent: {}
+[2.518591] (edhitha_ros) StdoutLine: {'line': b'writing dependency_links to ../../build/edhitha_ros/edhitha_ros.egg-info/dependency_links.txt\n'}
+[2.519309] (edhitha_ros) StdoutLine: {'line': b'writing entry points to ../../build/edhitha_ros/edhitha_ros.egg-info/entry_points.txt\n'}
+[2.519679] (edhitha_ros) StdoutLine: {'line': b'writing requirements to ../../build/edhitha_ros/edhitha_ros.egg-info/requires.txt\n'}
+[2.520032] (edhitha_ros) StdoutLine: {'line': b'writing top-level names to ../../build/edhitha_ros/edhitha_ros.egg-info/top_level.txt\n'}
+[2.581782] (edhitha_ros) StdoutLine: {'line': b"reading manifest file '../../build/edhitha_ros/edhitha_ros.egg-info/SOURCES.txt'\n"}
+[2.598098] (edhitha_ros) StdoutLine: {'line': b"writing manifest file '../../build/edhitha_ros/edhitha_ros.egg-info/SOURCES.txt'\n"}
+[2.598486] (edhitha_ros) StdoutLine: {'line': b'running build\n'}
+[2.598653] (edhitha_ros) StdoutLine: {'line': b'running build_py\n'}
+[2.599381] (edhitha_ros) StdoutLine: {'line': b'copying edhitha_ros/__init__.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros\n'}
+[2.599741] (edhitha_ros) StdoutLine: {'line': b'copying edhitha_ros/edhitha_listerners.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros\n'}
+[2.600078] (edhitha_ros) StdoutLine: {'line': b'copying edhitha_ros/edhitha_client.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros\n'}
+[2.600688] (edhitha_ros) StdoutLine: {'line': b'copying edhitha_ros/edhitha_talkerp.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros\n'}
+[2.600950] (edhitha_ros) StdoutLine: {'line': b'copying edhitha_ros/edhitha_server.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros\n'}
+[2.601563] (edhitha_ros) StdoutLine: {'line': b'running install\n'}
+[2.608704] (-) TimerEvent: {}
+[2.612445] (edhitha_ros) StdoutLine: {'line': b'running install_lib\n'}
+[2.641021] (edhitha_ros) StdoutLine: {'line': b'copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_listerners.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros\n'}
+[2.641837] (edhitha_ros) StdoutLine: {'line': b'copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_client.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros\n'}
+[2.642126] (edhitha_ros) StdoutLine: {'line': b'copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_talkerp.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros\n'}
+[2.642369] (edhitha_ros) StdoutLine: {'line': b'copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/edhitha_server.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros\n'}
+[2.643391] (edhitha_ros) StdoutLine: {'line': b'byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_listerners.py to edhitha_listerners.cpython-310.pyc\n'}
+[2.644177] (edhitha_ros) StdoutLine: {'line': b'byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_client.py to edhitha_client.cpython-310.pyc\n'}
+[2.645064] (edhitha_ros) StdoutLine: {'line': b'byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_talkerp.py to edhitha_talkerp.cpython-310.pyc\n'}
+[2.645840] (edhitha_ros) StdoutLine: {'line': b'byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/edhitha_server.py to edhitha_server.cpython-310.pyc\n'}
+[2.649733] (edhitha_ros) StdoutLine: {'line': b'running install_data\n'}
+[2.650004] (edhitha_ros) StdoutLine: {'line': b'copying resource/edhitha_ros -> /home/yashu/ros2_workspace/install/edhitha_ros/share/ament_index/resource_index/packages\n'}
+[2.650186] (edhitha_ros) StdoutLine: {'line': b'copying package.xml -> /home/yashu/ros2_workspace/install/edhitha_ros/share/edhitha_ros\n'}
+[2.650354] (edhitha_ros) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.681102] (edhitha_ros) StdoutLine: {'line': b"removing '/home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[2.681487] (edhitha_ros) StdoutLine: {'line': b'Copying ../../build/edhitha_ros/edhitha_ros.egg-info to /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros-0.0.0-py3.10.egg-info\n'}
+[2.684187] (edhitha_ros) StdoutLine: {'line': b'running install_scripts\n'}
+[2.708924] (-) TimerEvent: {}
+[2.809284] (-) TimerEvent: {}
+[2.909619] (-) TimerEvent: {}
+[2.953058] (edhitha_ros) StdoutLine: {'line': b'Installing edhitha_client script to /home/yashu/ros2_workspace/install/edhitha_ros/lib/edhitha_ros\n'}
+[2.953382] (edhitha_ros) StdoutLine: {'line': b'Installing edhitha_server script to /home/yashu/ros2_workspace/install/edhitha_ros/lib/edhitha_ros\n'}
+[2.954059] (edhitha_ros) StdoutLine: {'line': b"writing list of installed files to '/home/yashu/ros2_workspace/build/edhitha_ros/install.log'\n"}
+[3.004223] (edhitha_ros) CommandEnded: {'returncode': 0}
+[3.009717] (-) TimerEvent: {}
+[3.094563] (edhitha_ros) JobEnded: {'identifier': 'edhitha_ros', 'rc': 0}
+[3.095523] (-) EventReactorShutdown: {}

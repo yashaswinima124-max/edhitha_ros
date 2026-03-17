@@ -1,0 +1,33 @@
+[1.244s] Invoking command in '/home/yashu/ros2_workspace/src/edhitha_ros': PYTHONPATH=/home/yashu/ros2_workspace/build/edhitha_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/edhitha_ros build --build-base /home/yashu/ros2_workspace/build/edhitha_ros/build install --record /home/yashu/ros2_workspace/build/edhitha_ros/install.log --single-version-externally-managed install_data
+[1.603s] running egg_info
+[1.604s] creating ../../build/edhitha_ros/edhitha_ros.egg-info
+[1.604s] writing ../../build/edhitha_ros/edhitha_ros.egg-info/PKG-INFO
+[1.604s] writing dependency_links to ../../build/edhitha_ros/edhitha_ros.egg-info/dependency_links.txt
+[1.605s] writing entry points to ../../build/edhitha_ros/edhitha_ros.egg-info/entry_points.txt
+[1.605s] writing requirements to ../../build/edhitha_ros/edhitha_ros.egg-info/requires.txt
+[1.605s] writing top-level names to ../../build/edhitha_ros/edhitha_ros.egg-info/top_level.txt
+[1.606s] writing manifest file '../../build/edhitha_ros/edhitha_ros.egg-info/SOURCES.txt'
+[1.608s] reading manifest file '../../build/edhitha_ros/edhitha_ros.egg-info/SOURCES.txt'
+[1.609s] writing manifest file '../../build/edhitha_ros/edhitha_ros.egg-info/SOURCES.txt'
+[1.610s] running build
+[1.610s] running build_py
+[1.610s] creating /home/yashu/ros2_workspace/build/edhitha_ros/build
+[1.610s] creating /home/yashu/ros2_workspace/build/edhitha_ros/build/lib
+[1.610s] creating /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros
+[1.611s] copying edhitha_ros/__init__.py -> /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros
+[1.611s] running install
+[1.611s] running install_lib
+[1.612s] creating /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros
+[1.613s] copying /home/yashu/ros2_workspace/build/edhitha_ros/build/lib/edhitha_ros/__init__.py -> /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros
+[1.613s] byte-compiling /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros/__init__.py to __init__.cpython-310.pyc
+[1.614s] running install_data
+[1.614s] creating /home/yashu/ros2_workspace/install/edhitha_ros/share/ament_index
+[1.614s] creating /home/yashu/ros2_workspace/install/edhitha_ros/share/ament_index/resource_index
+[1.614s] creating /home/yashu/ros2_workspace/install/edhitha_ros/share/ament_index/resource_index/packages
+[1.614s] copying resource/edhitha_ros -> /home/yashu/ros2_workspace/install/edhitha_ros/share/ament_index/resource_index/packages
+[1.615s] copying package.xml -> /home/yashu/ros2_workspace/install/edhitha_ros/share/edhitha_ros
+[1.615s] running install_egg_info
+[1.618s] Copying ../../build/edhitha_ros/edhitha_ros.egg-info to /home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages/edhitha_ros-0.0.0-py3.10.egg-info
+[1.619s] running install_scripts
+[1.653s] writing list of installed files to '/home/yashu/ros2_workspace/build/edhitha_ros/install.log'
+[1.688s] Invoked command in '/home/yashu/ros2_workspace/src/edhitha_ros' returned '0': PYTHONPATH=/home/yashu/ros2_workspace/build/edhitha_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yashu/ros2_workspace/install/edhitha_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/edhitha_ros build --build-base /home/yashu/ros2_workspace/build/edhitha_ros/build install --record /home/yashu/ros2_workspace/build/edhitha_ros/install.log --single-version-externally-managed install_data
